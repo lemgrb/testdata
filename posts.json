@@ -3,27 +3,15 @@
     {
       "id": "381b010e-f51d-4fca-a249-271f72a6a5b9",
       "slug": "just-a-post",
-      "bio": "<h1>This is the biggest one</h1>\n<h2>This one is a little smaller</h2>\n<h3>This one is even smaller</h3>",
-      "sessions": [
-        {
-          "id": 129718,
-          "name": "Batching Vs Streaming"
-        }
-      ],
-      "name": "Macey Duncan",
+      "content": "<h1>This is the biggest one</h1>\n<h2>This one is a little smaller</h2>\n<h3>This one is even smaller</h3>",
+      "title": "Macey Duncan",
       "featured": true
     },
     {
       "id": "c5e306ae-3f40-4ff0-92a2-503e2f1dc6a1",
       "slug": "just-another-post",
-      "bio": "Ex amet elit anim qui consectetur fugiat consequat dolor occaecat. Pariatur eu duis dolore do commodo nisi consequat enim est pariatur eiusmod adipisicing esse labore ut. Laborum et ex aliqua esse Lorem aliqua. Mollit nulla nostrud enim ut proident commodo deserunt occaecat ex elit ex est.\nEsse enim nulla dolore sint incididunt enim eu eu aute aliqua laboris deserunt eiusmod. Reprehenderit et proident nisi laborum ex minim velit. Aliqua laboris et nulla laborum amet sint irure ad tempor. Nulla do officia labore. Ut amet aute ex proident. Enim sint aliqua occaecat voluptate adipisicing dolore proident.",
-      "sessions": [
-        {
-          "id": 85318,
-          "name": "Azure you want to use AWS IoT?"
-        }
-      ],
-      "name": "Jerome Parker",
+      "content": "Ex amet elit anim qui consectetur fugiat consequat dolor occaecat. Pariatur eu duis dolore do commodo nisi consequat enim est pariatur eiusmod adipisicing esse labore ut. Laborum et ex aliqua esse Lorem aliqua. Mollit nulla nostrud enim ut proident commodo deserunt occaecat ex elit ex est.\nEsse enim nulla dolore sint incididunt enim eu eu aute aliqua laboris deserunt eiusmod. Reprehenderit et proident nisi laborum ex minim velit. Aliqua laboris et nulla laborum amet sint irure ad tempor. Nulla do officia labore. Ut amet aute ex proident. Enim sint aliqua occaecat voluptate adipisicing dolore proident.",
+      "title": "Jerome Parker",
       "featured": true
     }
   ]

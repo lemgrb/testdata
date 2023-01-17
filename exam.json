@@ -3,7 +3,7 @@
   "questions": [
     {
       "id": 1,
-      "description": "",
+      "description": "What does this road sign mean?",
       "image": "/road_signs/no_entry.png",
       "uuid": "0f26c654-5810-495c-9233-49df92c0ec48",
       "options": [
@@ -11,18 +11,18 @@
         { "id": 2, "description": "No entry for select vehicles" },
         { "id": 3, "description": "Stop" }
       ],
-      "answer": "This is some explanation"
+      "answer": "No entry for all types of vehicles."
     },
     {
       "id": 2,
-      "description": "What to do when light is red?",
+      "description": "What does this road sign mean?",
       "image": "/road_signs/max_speed_is_60kph.png",
       "uuid": "0f26c654-5810-495c-9233-49df92c0ec48",
       "options": [
         { "id": 1, "description": "Minimum speed is 60kph"},
         { "id": 2, "description": "Maximum speed is 60kph","correct":true}
       ],
-      "answer": "This is some explanation"
+      "answer": "Maximum speed is 60kph."
     }
   ]
 }

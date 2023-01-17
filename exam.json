@@ -17,7 +17,7 @@
       "id": 2,
       "description": "What does this road sign mean?",
       "image": "/road_signs/max_speed_is_60kph.png",
-      "uuid": "0f26c654-5810-495c-9233-49df92c0ec48",
+      "uuid": "0f26c654-5810-495c-9233-49df92c0ec49",
       "options": [
         { "id": 1, "description": "Minimum speed is 60kph"},
         { "id": 2, "description": "Maximum speed is 60kph","correct":true}
